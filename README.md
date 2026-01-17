@@ -1,5 +1,5 @@
 # 💫 About Me:
-    - I am currently working on GGSf Collage Website   <br>- I am Frontend developer <br>- I Pursing B.Tech in Information Technology 
+ I am currently working on GGSf Collage Website   <br>- I am Frontend developer <br>- I Pursing B.Tech in Information Technology 
 
 
 ## 🌐 Socials:
