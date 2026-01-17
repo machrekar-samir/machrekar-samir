@@ -1,6 +1,8 @@
 # 💫 About Me:
- -
- - I am currently working on GGSF Collage Website   <br>- I am Frontend developer <br>- I Pursing B.Tech in Information Technology 
+ 
+ - I am currently working on GGSF Collage Website
+ - I am Frontend developer
+ -  I Pursing B.Tech in Information Technology 
 
 
 ## 🌐 Socials:
